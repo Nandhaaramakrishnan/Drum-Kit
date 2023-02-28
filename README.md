@@ -3,4 +3,4 @@ An interactive site to play different sounds of a drum.
 
 Link: https://nandhaaramakrishnan.github.io/Drum-Kit/
 
-Course credit: LondonAppBrewery
+Course credit: WebDevelopment/LondonAppBrewery
